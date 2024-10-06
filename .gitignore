@@ -7,3 +7,5 @@
 # Unignore all directories
 !*/
 
+*/debug/
+*/target/
